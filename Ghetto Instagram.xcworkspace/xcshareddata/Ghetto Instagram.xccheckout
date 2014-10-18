@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>375B7783-3B77-40AA-8A61-64D404059D55</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ghetto Instagram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>733D8EFC0D198BA5DA48963238CF56C2EAB3DEDF</key>
+		<string>https://github.com/weschao/ghetto-instagram.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ghetto Instagram.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>733D8EFC0D198BA5DA48963238CF56C2EAB3DEDF</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/weschao/ghetto-instagram.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>733D8EFC0D198BA5DA48963238CF56C2EAB3DEDF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>733D8EFC0D198BA5DA48963238CF56C2EAB3DEDF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ghetto%20Instagram</string>
+		</dict>
+	</array>
+</dict>
+</plist>

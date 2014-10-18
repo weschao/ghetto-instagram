@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PhotosViewController.h
 //  Ghetto Instagram
 //
 //  Created by Wes Chao on 10/15/14.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PhotosViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UITableView *photoTableView;
 
 @end
-
